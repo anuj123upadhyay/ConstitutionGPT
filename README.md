@@ -107,13 +107,6 @@ Required environment variables in `.env`:
 - `GITHUB_MODEL_ENDPOINT`: Your GitHub marketplace model endpoint
 - `HUGGINGFACE_MODEL_NAME`: HuggingFace model name (default: sentence-transformers/all-MiniLM-L6-v2)
 
-## Key Differences from Class-based Version
-
-- All functionality implemented as functions instead of classes
-- Uses HuggingFace embeddings instead of OpenAI
-- No OpenAI API key required
-- Simplified imports and module structure
-- Function-based approach for better modularity
 
 ## Troubleshooting
 
