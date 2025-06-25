@@ -1,0 +1,12 @@
+langchain
+langchain-community
+langchain-huggingface
+pinecone
+python-dotenv
+streamlit
+PyPDF2
+tiktoken
+requests
+sentence-transformers
+transformers
+torch
